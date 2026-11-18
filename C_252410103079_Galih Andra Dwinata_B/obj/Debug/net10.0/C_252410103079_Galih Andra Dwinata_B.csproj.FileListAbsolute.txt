@@ -1,0 +1,16 @@
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\bin\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.exe
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\bin\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.deps.json
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\bin\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.runtimeconfig.json
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\bin\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.dll
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\bin\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.pdb
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.AssemblyInfoInputs.cache
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.AssemblyInfo.cs
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.csproj.CoreCompileInputs.cache
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.sourcelink.json
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.dll
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\refint\C_252410103079_Galih Andra Dwinata_B.dll
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.pdb
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\C_252410103079_Galih Andra Dwinata_B.genruntimeconfig.cache
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\ref\C_252410103079_Galih Andra Dwinata_B.dll
+C:\Users\LOQ15\source\repos\C_252410103079_Galih Andra Dwinata_B\C_252410103079_Galih Andra Dwinata_B\obj\Debug\net10.0\C_252410.5B44E449.Up2Date
