@@ -1,17 +1,4 @@
-# SISTEM MANAJEMEN DISTRIBUSI GALON
-### UTS Pemrograman Berorientasi Objek – Tipe B
-
-## Identitas
-
-| Keterangan | Informasi |
-|---|---|
-| Kelas | [C] |
-| Nama | [Galih Andra Dwinata] |
-| 4 Digit NIM | [3079] |
-| Tipe Soal | B |
-| Mata Kuliah | Pemrograman Berorientasi Objek |
-| Bahasa Pemrograman | C# |
-
+### Remidi UTS Pemrograman Berorientasi Objek – Tipe B
 ---
 
 ## 1. Deskripsi Program
